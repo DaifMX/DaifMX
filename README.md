@@ -26,7 +26,7 @@ I enjoy designing systems that make complex operations feel simple.
 
 ## 🎓 Career
 - (3rd year) B.S. in Computer Science and Technology at Tecnológico de Monterrey (ITESM).
-- Coderohouse: Advanced Backend I & II, JavaScript, Java, Python, and React
+- Coderhouse: Advanced Backend I & II, JavaScript, Java, Python, and React.
 
 ## 🧠 Currently Learning
 
