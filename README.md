@@ -2,8 +2,7 @@
 
 ## 💻 Software Developer | 🧠 Systems Thinker
 
-Passionate developer focused on building efficient and scalable backend applications.
-I enjoy designing systems that make complex operations feel simple.
+Passionate developer focused on building efficient and scalable backend applications that make complex operations feel simple.
 
 ## ⚽ Hoobies
 
@@ -17,12 +16,15 @@ I enjoy designing systems that make complex operations feel simple.
 
 ## 🚀 Skills & Tools
 
+- Intermediate knowledge on computer networking and dev ops.
+- Type-2 hypervisors and containers.
+
 - **Languages:** Spanish (Native), English (C2), Japanese (A2)
 - **Programming Languages:** TypeScript, JavaScript, Kotlin, Python, SQL
 - **Frameworks:** Express, Sequelize, React, MUI, Mongoose
 - **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
 - **OS:** Windows, MacOS, Ubuntu, Debian
-- **Other Tools:** NGINX, Samba, Raspberry Pi, ZSH, Bash
+- **Other Tools:** Proxmox, NGINX, Samba, Raspberry Pi, ZSH, Bash, Cisco Packet Tracer
 
 ## 🎓 Career
 - (3rd year) B.S. in Computer Science and Technology at Tecnológico de Monterrey (ITESM).
@@ -33,6 +35,7 @@ I enjoy designing systems that make complex operations feel simple.
 - Building more attractive frontend applications with ShadCN and Tailwind.
 - Better abstractions in backend architecture using base service/DAO patterns.
 - Optimizing performance of API services and background jobs.
+- Electron for building desktop web applications.
 
 
 ## 📬 Contact Information
