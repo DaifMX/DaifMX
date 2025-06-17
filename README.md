@@ -22,7 +22,7 @@ I enjoy designing systems that make complex operations feel simple.
 - **Frameworks:** Express, Sequelize, React, MUI, Mongoose
 - **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
 - **OS:** Windows, MacOS, Ubuntu, Debian
-- **Other Tools:** NGINX, Samba, Raspberry Pi
+- **Other Tools:** NGINX, Samba, Raspberry Pi, ZSH, Bash
 
 ## 🎓 Career
 - (3rd year) B.S. in Computer Science and Technology at Tecnológico de Monterrey (ITESM).
