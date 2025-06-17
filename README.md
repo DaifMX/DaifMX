@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Diego Ibarra
 
-<!--
-**DaifMX/DaifMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Software Developer | 🧠 Systems Thinker
 
-Here are some ideas to get you started:
+Passionate developer focused on building efficient and scalable backend applications.
+I enjoy designing systems that make complex operations feel simple.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚽ Hoobies
+
+- Coding
+- Videogames
+- Football
+- Music
+- Traveling
+- Learing
+
+
+## 🚀 Skills & Tools
+
+- **Languages:** Spanish (Native), English (C2), Japanese (A2)
+- **Programming Languages:** TypeScript, JavaScript, Kotlin, Python, SQL
+- **Frameworks:** Express, Sequelize, React, MUI, Mongoose
+- **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
+- **OS:** Windows, MacOS, Ubuntu, Debian
+- **Other Tools:** NGINX, Samba, Raspberry Pi
+
+## 🧠 Currently Learning
+
+- Building more attractive frontend applications with ShadCN and Tailwind.
+- Better abstractions in backend architecture using base service/DAO patterns.
+- Optimizing performance of API services and background jobs.
+
+
+## 📬 Contact Information
+
+I'm always up for discussion.
+
+- 📧 Email: *engr.daif@gmail.com*
+- Discord: *daif*
+- 🌐 [LinkedIn](https://www.linkedin.com/in/diego-ibarra-flores-934b25285/)
+---
+
+Thank you for reading!
