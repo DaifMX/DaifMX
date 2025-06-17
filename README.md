@@ -24,6 +24,10 @@ I enjoy designing systems that make complex operations feel simple.
 - **OS:** Windows, MacOS, Ubuntu, Debian
 - **Other Tools:** NGINX, Samba, Raspberry Pi
 
+## 🎓 Career
+- (3rd year) B.S. in Computer Science and Technology at Tecnológico de Monterrey (ITESM).
+- Coderohouse: Advanced Backend I & II, JavaScript, Java, Python, and React
+
 ## 🧠 Currently Learning
 
 - Building more attractive frontend applications with ShadCN and Tailwind.
