@@ -4,6 +4,8 @@
 
 Passionate developer focused on building efficient and scalable backend applications that make complex operations feel simple.
 
+Also love working with computer networks, devops and type 2 hypervisors 
+
 ## ⚽ Hoobies
 
 - Coding
@@ -15,16 +17,12 @@ Passionate developer focused on building efficient and scalable backend applicat
 
 
 ## 🚀 Skills & Tools
-
-- Intermediate knowledge on computer networking and dev ops.
-- Type-2 hypervisors and containers.
-
 - **Languages:** Spanish (Native), English (C2), Japanese (A2)
 - **Programming Languages:** TypeScript, JavaScript, Kotlin, Python, SQL
 - **Frameworks:** Express, Sequelize, React, MUI, Mongoose
 - **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
 - **OS:** Windows, MacOS, Ubuntu, Debian
-- **Other Tools:** Proxmox, NGINX, Samba, Raspberry Pi, ZSH, Bash, Cisco Packet Tracer
+- **Other Tools:** Proxmox, Git, NGINX, Samba, Raspberry Pi, ZSH, Bash, Cisco Packet Tracer, NO-IP DNS
 
 ## 🎓 Career
 - (3rd year) B.S. in Computer Science and Technology at Tecnológico de Monterrey (ITESM).
