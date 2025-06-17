@@ -2,7 +2,7 @@
 
 ## 💻 Software Developer | 🧠 Systems Thinker
 
-Passionate about computers since I was a little child. I love hardware and building computer rigs since my early teens.
+Passionate about computers since I was a kid. I love hardware and building computer rigs since my early teens.
 
 I'm a passionate developer focused on building efficient and scalable backend applications.
 
