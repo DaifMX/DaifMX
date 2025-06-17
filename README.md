@@ -2,9 +2,11 @@
 
 ## 💻 Software Developer | 🧠 Systems Thinker
 
-Passionate developer focused on building efficient and scalable backend applications that make complex operations feel simple.
+Passionate about computers since I was a little child. I love hardware and building computers rigs since my early teens.
 
-Also love working with computer networks, devops and type 2 hypervisors. 
+I'm a passionate developer focused on building efficient and scalable backend applications.
+
+I also love working with computer networks, devops and type 2 hypervisors. 
 
 ## ⚽ Hoobies
 
