@@ -4,7 +4,7 @@
 
 Passionate developer focused on building efficient and scalable backend applications that make complex operations feel simple.
 
-Also love working with computer networks, devops and type 2 hypervisors 
+Also love working with computer networks, devops and type 2 hypervisors. 
 
 ## ⚽ Hoobies
 
@@ -13,7 +13,7 @@ Also love working with computer networks, devops and type 2 hypervisors
 - Football
 - Music
 - Traveling
-- Learing
+- Learning
 
 
 ## 🚀 Skills & Tools
