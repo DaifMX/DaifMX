@@ -4,9 +4,7 @@
 
 Passionate about computers since I was a kid. I love hardware and building computer rigs since my early teens.
 
-I'm a passionate developer focused on building efficient and scalable backend applications.
-
-I also love working with computer networks, devops and type 2 hypervisors. 
+Focused on building efficient and scalable backend applications. 
 
 ## ⚽ Hoobies
 
