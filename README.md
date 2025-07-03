@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diego Ibarra
 
-## 💻 Software Developer | 🧠 Systems Thinker
+## 💻 Software Developer
 
 Passionate about computers since I was a kid. I love hardware and building computer rigs since my early teens.
 
