@@ -18,9 +18,9 @@ Focused on building efficient and scalable backend applications.
 
 ## 🚀 Skills & Tools
 - **Languages:** Spanish (Native), English (C2), Japanese (A2)
-- **Programming Languages:** TypeScript, JavaScript, Kotlin, Python, SQL
-- **Frameworks:** Express, Sequelize, React, MUI, Mongoose
-- **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB
+- **Programming Languages:** TypeScript/JavaScript, Kotlin, Python, Java
+- **Frameworks:** Express, React, SpringBoot
+- **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB, Redis
 - **OS:** Windows, MacOS, Ubuntu, Debian
 - **Other Tools:** Proxmox, Git, NGINX, Samba, Raspberry Pi, ZSH, Bash, Cisco Packet Tracer, NO-IP DNS
 
