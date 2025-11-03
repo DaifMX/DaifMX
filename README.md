@@ -1,28 +1,29 @@
 # 👋 Hi, I'm Diego Ibarra
 
-## 💻 Software Developer
+## 💻 Computer Science and Technology Undergrad
 
 Passionate about computers since I was a kid. I love hardware and building computer rigs since my early teens.
 
-Focused on building efficient and scalable backend applications. 
+Focused on building efficient and scalable fullstack applications.
 
 ## ⚽ Hoobies
 
 - Coding
+- Music
 - Videogames
 - Football
-- Music
-- Traveling
 - Learning
+- Home Labbing & Networking
+- Traveling
 
 
 ## 🚀 Skills & Tools
 - **Languages:** Spanish (Native), English (C2), Japanese (A2)
-- **Programming Languages:** TypeScript/JavaScript, Kotlin, Python, Java
-- **Frameworks:** Express, React, SpringBoot
-- **Databases:** PostgreSQL, MSSQL, MySQL, MongoDB, Redis
+- **Programming Languages:** TypeScript/JavaScript, Kotlin, Java, C#
+- **Frameworks:** Express, React, React Native, SpringBoot, .NET
+- **Databases:** PostgreSQL, MSSQL, MongoDB, Redis
 - **OS:** Windows, MacOS, Ubuntu, Debian
-- **Other Tools:** Proxmox, Git, NGINX, Samba, Raspberry Pi, ZSH, Bash, Cisco Packet Tracer, NO-IP DNS
+- **Other Tools:** Proxmox, Git, NGINX, Docker, Samba, Raspberry Pi, ZSH, Bash, Cisco Packet Tracer, MikroTik RouterOS
 
 ## 🎓 Career
 - (3rd year) B.S. in Computer Science and Technology at Tecnológico de Monterrey (ITESM).
@@ -30,10 +31,11 @@ Focused on building efficient and scalable backend applications.
 
 ## 🧠 Currently Learning
 
-- Building more attractive frontend applications with ShadCN and Tailwind.
-- Better abstractions in backend architecture using base service/DAO patterns.
-- Optimizing performance of API services and background jobs.
-- Electron for building desktop web applications.
+- OWASP TOP Ten & OWASP Zap
+- Backend: .NET Entity Framework, Drizzle, BetterAuth, DLLs
+- Frontend: Tailwind, ShadCN, React Native 
+- CI/CD: Docker, Docker-Compose, Jenkins
+- Networks: MikroTik RouterOS, L2TP/IPSec, Firewalls
 
 
 ## 📬 Contact Information
