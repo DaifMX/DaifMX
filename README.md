@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diego Ibarra
 
-## 💻 Computer Science and Technology Undergrad
+## 💻 Undergrad B.S. in Computer Science and Technology
 
 Passionate about computers since I was a kid. I love hardware and building computer rigs since my early teens.
 
