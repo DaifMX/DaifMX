@@ -23,7 +23,7 @@ Focused on building efficient and scalable fullstack applications.
 - **Frameworks:** Express, React, React Native, SpringBoot, .NET
 - **Databases:** PostgreSQL, MSSQL, MongoDB, Redis
 - **OS:** Windows, MacOS, Ubuntu, Debian
-- **Other Tools:** Proxmox, Git, NGINX, Docker, Samba, Raspberry Pi, ZSH, Bash, Cisco Packet Tracer, MikroTik RouterOS
+- **Other Tools:** Proxmox, Git, NGINX, Docker, Samba, Raspberry Pi, ZSH, Bash, Node, npm, pnpm
 
 ## 🎓 Career
 - (3rd year) B.S. in Computer Science and Technology at Tecnológico de Monterrey (ITESM).
