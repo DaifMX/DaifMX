@@ -42,7 +42,7 @@ Focused on building efficient and scalable fullstack applications.
 
 I'm always up for discussion.
 
-- 📧 Email: *engr.daif@gmail.com*
+- 📧 Email: *daif@daifo.net*
 - Discord: *daif*
 - 🌐 [LinkedIn](https://www.linkedin.com/in/diego-ibarra-flores-934b25285/)
 ---
