@@ -60,18 +60,6 @@ Third-year CS student passionate about building efficient, scalable applications
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaifMX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaifMX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ##  Languages
 
 🇲🇽 **Spanish** - Native  
