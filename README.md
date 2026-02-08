@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 ```typescript
-const diego = {
+const daif = {
     location: "Mexico",
     education: "B.S. Computer Science Student @ Tec de Monterrey",
     interests: ["Fullstack Dev", "Networking", "Homelabbing"],
