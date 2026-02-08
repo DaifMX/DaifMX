@@ -1,50 +1,95 @@
-# 👋 Hi, I'm Diego Ibarra
+<div align="center">
 
-## 💻 Undergrad B.S. in Computer Science and Technology
+# 👋 Hey, I'm Diego Ibarra
 
-Passionate about computers since I was a kid. I love hardware and building computer rigs since my early teens.
+### Fullstack Developer | Computer Science Student | Homelab Enthusiast
 
-Focused on building efficient and scalable fullstack applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ibarra-flores-934b25285/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daif@daifo.net)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-## ⚽ Hoobies
+</div>
 
-- Coding
-- Music
-- Videogames
-- Football
-- Learning
-- Home Labbing & Networking
-- Traveling
-
-
-## 🚀 Skills & Tools
-- **Languages:** Spanish (Native), English (C2), Japanese (A2)
-- **Programming Languages:** TypeScript/JavaScript, Kotlin, Java, C#
-- **Frameworks:** Express, React, React Native, SpringBoot, .NET
-- **Databases:** PostgreSQL, MSSQL, MongoDB, Redis
-- **OS:** Windows, MacOS, Ubuntu, Debian
-- **Other Tools:** Proxmox, Git, NGINX, Docker, Samba, Raspberry Pi, ZSH, Bash, Node, npm, pnpm
-
-## 🎓 Career
-- (3rd year) B.S. in Computer Science and Technology at Tecnológico de Monterrey (ITESM).
-- Coderhouse: Advanced Backend I & II, JavaScript, Java, Python, and React.
-
-## 🧠 Currently Learning
-
-- OWASP TOP Ten & OWASP Zap
-- Backend: .NET Entity Framework, Drizzle, BetterAuth, DLLs
-- Frontend: Tailwind, ShadCN, React Native 
-- CI/CD: Docker, Docker-Compose, Jenkins
-- Networks: MikroTik RouterOS, L2TP/IPSec, Firewalls
-
-
-## 📬 Contact Information
-
-I'm always up for discussion.
-
-- 📧 Email: *daif@daifo.net*
-- Discord: *daif*
-- 🌐 [LinkedIn](https://www.linkedin.com/in/diego-ibarra-flores-934b25285/)
 ---
 
-Thank you for reading!
+## 🚀 About Me
+
+```typescript
+const diego = {
+    location: "Mexico",
+    education: "B.S. Computer Science Student @ Tec de Monterrey",
+    interests: ["Fullstack Dev", "Networking", "Homelabbing"],
+    hobbies: ["⚽ Football", "🎮 Gaming", "🎵 Music", "✈️ Travel"]
+};
+```
+
+Third-year CS student passionate about building efficient, scalable applications. Started with hardware—building custom PCs as a teen—now I build software and infrastructure. I run a homelab where I experiment with virtualization, networking, and self-hosted services.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaifMX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaifMX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+##  Languages
+
+🇲🇽 **Spanish** - Native  
+🇬🇧 **English** - Fluent (C1-C2)  
+
+---
+
+##  Socials
+
+
+- 📧 **Email:** [daif@daifo.net](mailto:daif@daifo.net)
+- 💼 **LinkedIn:** [diego-ibarra-flores](https://www.linkedin.com/in/diego-ibarra-flores-934b25285/)
+- 💬 **Discord:** daif
+
+---
+
+<div align="center">
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=DaifMX&color=blueviolet&style=flat-square)
+
+</div>
