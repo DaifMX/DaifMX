@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Diego Ibarra
+# Diego Ibarra
 
 ### Fullstack Developer | Computer Science Student
 
