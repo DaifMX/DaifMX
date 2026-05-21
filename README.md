@@ -9,23 +9,6 @@
 
 </div>
 
----
-
-## About Me
-
-```typescript
-const daif = {
-    location: "Mexico",
-    education: "B.S. Computer Science Student @ Tec de Monterrey",
-    interests: ["Fullstack Dev", "Networking", "Homelabbing"],
-    hobbies: ["⚽ Football", "🎮 Gaming", "🎵 Music", "✈️ Travel"]
-};
-```
-
-Third-year CS student passionate about building efficient, scalable applications. Started with hardware—building custom PCs as a teen—now I build software and infrastructure. I run a homelab where I experiment with virtualization, networking, and self-hosted services.
-
----
-
 ## Tech Stack
 
 ### Languages
