@@ -65,7 +65,7 @@
 ##  Socials
 
 
-- 📧 **Email:** [daif@daifo.net](mailto:daif@daifo.net)
+- 📧 **Email:** [contact@daif.sh](mailto:contact@daif.sh)
 - 💼 **LinkedIn:** [diego-ibarra-flores](https://www.linkedin.com/in/diego-ibarra-flores-934b25285/)
 - 💬 **Discord:** daif
 
